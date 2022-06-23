@@ -1,0 +1,20 @@
+{
+  "name": "curso-scopeclosure",
+  "version": "1.0.0",
+  "description": "Curso Closures y Scope Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chwilliams1/curso-ScopeClosure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chwilliams1/curso-ScopeClosure/issues"
+  },
+  "homepage": "https://github.com/chwilliams1/curso-ScopeClosure#readme"
+}
